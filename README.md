@@ -1,1 +1,1 @@
-# invoice_generator
+This is a simple invoice generator that creates an extension the PHP library FPDF. I have included a copy of FPDF for convenience. You can simply grab the CompanyInvoiceGenerator.php file from the classes folder. If you run test.php it will produce a pdf as an example. 
